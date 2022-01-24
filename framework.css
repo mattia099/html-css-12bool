@@ -138,3 +138,30 @@
     margin-left: calc( (100% / 12) * 12);
 }
 
+/*JUSTIFY-CONTENT*/
+.justify-start{
+    justify-content: start;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-end{
+    justify-content: end;
+}
+
+/*ALIGN-ITEMS*/
+.align-start{
+    align-items: flex-start;
+}
+.align-center{
+    align-items: center;
+}
+.align-end{
+    align-items: flex-end;
+}
+
+/*dimensioni rettangoli*/
+
+.big{
+    height: 84px;
+}
