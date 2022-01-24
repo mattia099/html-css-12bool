@@ -28,6 +28,12 @@
 .mb-30{
     margin-bottom: 30px;
 }
+
+/*dimensioni rettangoli*/
+.big{
+    height: 84px;
+}
+
 /*Layout*/
 
 .row{
@@ -148,6 +154,12 @@
 .justify-end{
     justify-content: end;
 }
+.justify-space-between{
+    justify-content: space-between;
+}
+.justify-space-around{
+    justify-content: space-around;
+}
 
 /*ALIGN-ITEMS*/
 .align-start{
@@ -160,8 +172,3 @@
     align-items: flex-end;
 }
 
-/*dimensioni rettangoli*/
-
-.big{
-    height: 84px;
-}
